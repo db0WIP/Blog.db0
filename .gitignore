@@ -7,3 +7,12 @@
 *.cmx
 *.cmxs
 *.cmxa
+.depend
+_client
+_server
+*.js
+bootstrap
+otools.*
+tools.*
+pathname.*
+
